@@ -1,3 +1,9 @@
+# REPOSITORY MOVED
+
+This Repository has been moved to a [new location](https://github.com/bmds-tue/nf-meta) where the development continues. 
+
+The package is also available for download from [PyPI](https://pypi.org/project/nf-meta/#description).
+
 # nf-meta: metapipeline representation, editor, and runner
 
 This project features a reproducible representation for meta-pipelines, featuring an interactive editor running locally in a browser, as well as a cli based validator and runner.
